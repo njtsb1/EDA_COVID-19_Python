@@ -1,3 +1,5 @@
+Daily learning
+
 # Predicting the Evolution of COVID-19 in Brazil
 
 ## Creating Models with Python and Machine Learning
